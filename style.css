@@ -269,6 +269,17 @@
     .v-class{
         opacity :0;
     }
+    .secondHalf{
+        height: 1rem;
+        width : 5rem;
+
+    }
+    .thumbnail{
+        margin:10px;
+    }
+    .form{
+        width: 50%;
+    }
     /* #search{
         width: 50%;
     } */
